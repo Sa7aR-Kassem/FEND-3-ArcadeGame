@@ -4,7 +4,7 @@ This is an arcade game, made for Udacity Frontend Nanodegree project. User can u
 ## Table of Contents
 
 - [Run Locally](#run)
-- [Contributing](#contributing)
+- [Screenshot](#screenshot)
 
 ## Run Locally
 
